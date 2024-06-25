@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Farmer-Andy! I'm a former Navy boat guy turned chemistry nerd, mushroom farmer, and music maker.
+- 👀 I’m interested in gourmet mushroom cultivation, fixing all kinds of restaurant equipment, and crafting tunes on my guitar and synthesizer.
+- 🌱 I’m currently learning the ins and outs of AI to streamline troubleshooting for restaurant gear, and always diving deeper into music production techniques.
+- 💞️ I’m looking to collaborate on lo-fi electronic tracks, inventive coding projects, and any cool ideas that blend tech and creativity.
+- 📫 How to reach me: Drop me a line at boatguy@outlook.com or find me on Bluesky @farmerandy.bsky.social
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can play a mean oboe, and my farm produces some of the tastiest mushrooms you'll ever try!
