@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Farmer-Andy! I'm a former Navy boat guy turned chemistry nerd, farmer, and developer.
-- 👀 I’m interested in gourmet mushroom cultivation, fixing all kinds of restaurant equipment, and crafting tunes on my guitar and synthesizer.
-- 🌱 I’m currently learning the ins and outs of RAG, and always diving deeper into python.
+- 🌱 I like working with nlp on cloudflare with hono, python, html and java
 - 📫 How to reach me: Drop me a line at andy@farmerandy.tech or find me on Bluesky @farmerandy.bsky.social
