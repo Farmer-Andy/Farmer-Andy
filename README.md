@@ -1,2 +1,3 @@
-- 🌱 I like working with nlp on cloudflare with hono, python, html and java
-- 📫 How to reach me: Drop me a line at andy@farmerandy.tech or find me on Bluesky @farmerandy.bsky.social
+- I design agent harnesses and eval loops because I love them.
+- Durable Objects are my favorite Cloudflare primitive.
+- How to reach me: Drop me a line at andy@farmerandy.tech or visit me at farmerandy.tech 
