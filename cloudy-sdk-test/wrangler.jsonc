@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/wrangler.json",
+  "name": "cloudy-sdk-test",
+  "main": "src/server.ts",
+  "compatibility_date": "2025-05-07",
+  "compatibility_flags": ["nodejs_compat"],
+
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "CLOUDY_AGENT",
+        "class_name": "CloudyAgent"
+      }
+    ]
+  },
+
+  // SQLite-backed Durable Objects for AIChatAgent message persistence
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": ["CloudyAgent"]
+    }
+  ]
+}
