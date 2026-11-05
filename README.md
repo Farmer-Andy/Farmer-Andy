@@ -4,7 +4,7 @@ Solo developer building small, careful AI tools on Cloudflare Workers: agents th
 
 I built a Document-to-Podcast app because I wanted to listen to episodes on my actual podcast feed..
 
-Stargazer, a document-to-podcast generation platform that converts uploaded documents into narrated, two-host audio episodes delivered via private RSS feeds to standard podcast clients.  
+Stargazer, a document-to-podcast-feed platform that converts uploaded documents into narrated, two-host audio episodes delivered via private RSS feeds to standard podcast clients.  
 https://Stargazer.Vector.Garden
 
 
