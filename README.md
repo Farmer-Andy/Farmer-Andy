@@ -1,6 +1,6 @@
 # T. Andrew Barnes
 
-Solo developer building boutique apps. Father, husband, Navy veteran.
+Solo developer building boutique apps. Father, husband, farmer, Navy veteran.
 
 I built Stargazer, a document-to-Podcast app because I wanted to listen to episodes on my actual podcast feed..
 
