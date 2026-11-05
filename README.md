@@ -1,8 +1,8 @@
 # T. Andrew Barnes
 
-Solo developer building small, careful AI tools on Cloudflare Workers: agents that own their own databases, grounded assistants, and the audit trails that keep them honest. Navy veteran.
+Solo developer building boutique apps. Father, husband, Navy veteran.
 
-I built a Document-to-Podcast app because I wanted to listen to episodes on my actual podcast feed..
+I built Stargazer, a document-to-Podcast app because I wanted to listen to episodes on my actual podcast feed..
 
 Stargazer, a document-to-podcast-feed platform that converts uploaded documents into narrated, two-host audio episodes delivered via private RSS feeds to standard podcast clients.  
 https://Stargazer.Vector.Garden
